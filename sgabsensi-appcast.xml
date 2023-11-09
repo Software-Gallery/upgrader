@@ -4,7 +4,12 @@
         <title>SG Absensi - AppCast</title>
         <item>
             <title>Version 3.0.0</title>
-            <description>Versi terbaru Tersedia</description>
+            <description>
+              Update
+              - Pemberitahuan Update
+              - Jam Server Berdasarkan Lokasi
+              - Hari Pada Tanggal Sebagai Informasi
+            </description>
             <pubDate>Sun, 09 Nov 2023 11:45:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.softwaregallery.absensi" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
