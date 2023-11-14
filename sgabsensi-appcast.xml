@@ -11,7 +11,7 @@
               - Hari Pada Tanggal Sebagai Informasi
             </description>
             <pubDate>Sun, 09 Nov 2023 11:45:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.softwaregallery.absensi" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.softwaregallery.absensi" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
