@@ -3,13 +3,13 @@
     <channel>
         <title>SG Absensi - AppCast</title>
         <item>
-            <title>Version 1.0.9</title>
+            <title>Version 1.0.11</title>
             <description>
               Update
               - Feature Message
             </description>
-            <pubDate>Sun, 30 Des 2023 11:53:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.softwaregallery.absensi" sparkle:version="1.0.9" sparkle:os="android" />
+            <pubDate>Sun, 19 Jan 2024 10:53:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.softwaregallery.absensi" sparkle:version="1.0.11" sparkle:os="android" />
         </item>
     </channel>
 </rss>
